@@ -1,7 +1,0 @@
-console.log(Boolean(600))
-console.log(Boolean(-30))
-console.log(Boolean(NaN))
-console.log(Boolean(0))
-console.log(Boolean(undefined))
-console.log(Boolean(6))
-console.log(Boolean(-0))
